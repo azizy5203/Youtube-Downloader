@@ -1,6 +1,7 @@
 print('Youtube donwloader v1.2 script by Youssef Abdulaziz')
 
 import os
+os.system('pip install yt-dlp')
 print('Checking for dependencies...\n')
 
 print('Checking complete!\n')
