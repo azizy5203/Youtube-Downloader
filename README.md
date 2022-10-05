@@ -2,7 +2,7 @@
 
 ## Usage:
 
-	1- paste video link
+	1- paste video or playlist link
 	
 ![step 1](/steps_imgs/step_one.png)
 
