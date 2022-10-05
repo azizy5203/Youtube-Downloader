@@ -1,7 +1,7 @@
 # Youtube-Downloader by [Youssef Abdulaziz](https://www.facebook.com/azizyoussuf)
-	**Download videos or entire playlists**
+	Download videos or entire playlists
 
-	**Convert video or playlist to m4a audio**
+	Convert video or playlist to m4a audio
 
 ## Usage:
 
