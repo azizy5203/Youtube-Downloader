@@ -1,4 +1,4 @@
-print('Youtube donwloader v1.1 script by Youssef Abdulaziz')
+print('Youtube donwloader v1.2 script by Youssef Abdulaziz')
 
 import os
 print('Checking for dependencies...\n')
